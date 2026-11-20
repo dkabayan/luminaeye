@@ -1,0 +1,6 @@
+{
+  "name": "LuminaEye",
+  "description": "Perangkat lunak perlindungan mata untuk Windows dengan Blue Light Filter, kontrol kecerahan multi-monitor, Break Timer 20-20-20, Focus & MagicX, serta dashboard statistik kesehatan mata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

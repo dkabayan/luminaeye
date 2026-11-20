@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Rust / Tauri build artifacts
+src-tauri/target/
+src-tauri/target_check/
+src-tauri/gen/
+*.exe
+*.msi
+
